@@ -9,7 +9,7 @@ Una aplicación desarrollada en Android Studio como parte de la asignatura móvi
 - Kotlin
 
 ## ⚙️ Instalación
-# 🔧 Requerimientos
+### 🔧 Requerimientos
 - Dispositivo Android
 - Versión Android 7.0 hasta 14 de junio 2025
   
